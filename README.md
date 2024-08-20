@@ -4,6 +4,9 @@
 
 This Power BI dashboard provides an insightful analysis of Netflix data, with a focus on key performance metrics and user engagement. The dashboard includes a single comprehensive page, which is designed to offer a high-level overview of the most critical aspects of Netflix's operations.
 
+![Netflix Dashboard Overview](Dashboard_image.png)
+
+
 ## Key Features
 
 - **Visuals**: The dashboard includes 12 distinct visuals that cover various aspects of the data. These visuals are likely to include charts, tables, and possibly custom visuals tailored to highlight specific KPIs.
